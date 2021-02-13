@@ -54,13 +54,28 @@ func main() {
 		},
 	}
 
-	fmt.Println(lista.tasks[0])
-
 	lista.agregarALista(t3)
 
-	fmt.Println(len(lista.tasks))
+	// for i := 0; i < len(lista.tasks); i++ {
+	// 	fmt.Println("Index", i, "Nombre", lista.tasks[i].nombre)
+	// }
 
-	lista.eliminarDeLista(1)
+	// for index, tarea := range lista.tasks {
+	// 	fmt.Println("Index", index, "Nombre", tarea.nombre)
+	// }
 
-	fmt.Println(len(lista.tasks))
+	for i := 0; i < 10; i++ {
+		if i == 5 {
+			break
+		}
+		fmt.Println(i)
+	}
+
+	for i := 0; i < 10; i++ {
+		if i == 5 {
+			continue
+		}
+		fmt.Println(i)
+	}
+
 }
