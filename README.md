@@ -14,3 +14,4 @@
 - **web.go**: Ejercicio mostrar contenido de una web utilizando interfaces
 - **servidores.go**: Ejercicio previo concurrencias
 - **goServidores.go**: Ejercicio de concurrencia, implementacion GoRoutines y Channels
+- **/web_server**: Proyecto final del curso
