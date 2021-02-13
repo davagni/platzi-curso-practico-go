@@ -12,3 +12,5 @@
 - **noInterface.go**: Ejercicio no utilizando interfaces
 - **interfaces.go**: Ejercicio "noInterface" utilizando interfaces
 - **web.go**: Ejercicio mostrar contenido de una web utilizando interfaces
+- **servidores.go**: Ejercicio previo concurrencias
+- **goServidores.go**: Ejercicio de concurrencia, implementacion GoRoutines y Channels
