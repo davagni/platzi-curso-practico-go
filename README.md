@@ -6,5 +6,8 @@
 
 - **main.go**: Ejemplos
 - **apuntadores.go**: Ejemplo punteros
+- **maps.go**: Ejemplo de mapas
 - **calculadora.go**: Calculadora
 - **tareas.go**: Lista de tareas
+- **noInterface.go**: Ejercicio no utilizando interfaces
+- **interfaces.go**: Ejercicio "noInterface" utilizando interfaces
