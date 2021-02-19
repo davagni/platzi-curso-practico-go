@@ -15,3 +15,5 @@
 - **servidores.go**: Ejercicio previo concurrencias
 - **goServidores.go**: Ejercicio de concurrencia, implementacion GoRoutines y Channels
 - **/web_server**: Proyecto final del curso
+- **Creando Modulos**: [Modulo Calculadora](https://github.com/davagni/mycalculator)
+- **/platzi_mod**: Programa utilizando modulo del ejercicio anterior.
